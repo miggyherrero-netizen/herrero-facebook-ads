@@ -20,7 +20,8 @@ Maintain only owner-provided or independently verifiable facts here. Mark unansw
 - Customer action after the ad (call, message, form, booking, purchase, etc.): Facebook Page Messenger with Meta's built-in Business Agent. Owner requires inquiry-details collection only: name, contact number and service address; ask city/barangay and piano concern first, one missing detail per reply. Only Robert confirms price, route and booking. Automatic AI booking disabled and customer-facing AI left off on 2026-10-03; see the dated Business Agent report.
 - Current pricing, availability, or seasonal constraints: Rates start at PHP 3,000 depending on location (owner, 2026-10-03). Exact dates/availability, travel fees and final quotes require Robert's confirmation. No automatic booking, including trips from Davao to Tagum.
 - Claims, legal/compliance, brand, or creative restrictions: Photo-only paid-social creative preference, owner-reported (2026-10-02).
-- Capacity and expected response time for inquiries: Not provided; responder availability and response/booking capability remain to be confirmed.
+- Capacity and expected response time for inquiries: Owner states Robert can do **3-5 piano jobs per day**; rest day is not fixed (owner, 2026-10-03). Responder is the **Meta Business Agent AI** (owner, 2026-10-03). Actual reply speed, owner handoff reliability, unanswered-message visibility and weekly bookable capacity vs current volume remain unverified.
+- Funding status: Owner confirms **there is money available and ads are being prepared to launch** (owner, 2026-10-03). No exact spend ceiling, period, or taxes/fees basis has been stated; do not treat "money exists" as an approved budget.
 
 ## Advertising goals and guardrails
 
