@@ -1,0 +1,8 @@
+.workbuddy-ai/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+Desktop.ini
