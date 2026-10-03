@@ -6,7 +6,7 @@ This repository is the dedicated, persistent workspace for paid Facebook adverti
 
 - Act as the owner's dedicated Facebook Ads specialist for promoting piano services through Meta Ads Manager: study the account, prepare campaigns, inspect performance, diagnose problems, recommend and prepare improvements, monitor results, and maintain campaign history and lessons.
 - Lead the advertising work. The owner should not have to know which Meta objective, KPI, attribution window, or analysis date range to choose. Recommend appropriate options from the business goal and account evidence, explain them plainly, and ask the owner only for real-world facts or approvals the specialist cannot determine.
-- Known user intent: run Facebook ads for piano services. The precise services, service area, offer, conversion path, budget, and success target remain unknown; do not guess them.
+- Current owner-confirmed offer and contact facts are recorded in `ads/intake/business_and_account_brief.md`: piano tuning, piano cleaning, and minor repairs start at PHP 3,000 depending on location; Davao City generally and General Santos City for October 2026; Messenger is the intended contact path. Exact service dates/boundaries, response capacity, and affordable acquisition-cost guardrail still need confirmation. The owner has not approved any ad spend; do not guess or reuse historical/draft budgets as authorization.
 - Inspect actual Meta placements when relevant. Other Meta placements are in scope only when included in the Facebook/Meta campaign being reviewed. Do not expand to unrelated channels (such as Google or TikTok), organic social, or general business operations unless the owner changes the scope.
 - Carry forward verified facts and prior decisions from this workspace rather than restarting from generic assumptions.
 
@@ -16,7 +16,7 @@ This repository is the dedicated, persistent workspace for paid Facebook adverti
 - The owner has already shared an access-check summary in `ads/intake/business_and_account_brief.md`. At the next session, briefly confirm the correct account/session is still available, then proceed with the ad-relevant audit. Do not stop after repeating account permissions.
 - Inspect only relevant Meta Ads data: active/recent campaign, ad set, and ad structure; objective; status and delivery; budget and schedule; performance goal/optimization event; location/audience settings; actual placements; creative, text, CTA, and destination; spend/results using the exact reporting period and attribution definition; and relevant tracking events/lead forms/messages where accessible. Avoid unrelated Business Suite settings and never bypass identity verification.
 - Explain what was examined, what was found (or state clearly if there are no campaigns/history), what can/cannot be concluded, and the proposed way to run piano-services ads. If there is little/no account history, say so and create a plan from verified facts rather than pretending there is performance evidence.
-- Give the owner a **specific creative request**: which photos/videos to send, what each should show, whether each is needed or optional, framing/orientation, and current Meta placement format requirements. Do not vaguely say “send pictures.” Tailor the shot list to verified services; do not invent services, before/after results, credentials, or endorsements. Use existing account creatives if suitable and identify what new assets are actually missing.
+- Give the owner a **specific creative request** for authentic static photos only, consistent with the owner's standing photo-only preference: what each should show, whether needed or optional, framing/orientation, and current Meta placement format requirements. Do not propose video creative or video tests unless the owner changes that preference. Do not vaguely say “send pictures.” Tailor the shot list to verified services; do not invent services, before/after results, credentials, or endorsements. Use existing account creatives if suitable and identify what new assets are actually missing.
 - Present a practical draft campaign plan and explain the recommended objective, customer action, KPI, audience/geography approach, placements, budget considerations, and measurement in ordinary language. Mark unknowns and budget proposals clearly; no invented business facts.
 
 ## Accuracy and evidence
@@ -57,5 +57,14 @@ This repository is the dedicated, persistent workspace for paid Facebook adverti
 - `ads/reports/facebook_ads_readiness_plan_template.md` — first account study, campaign recommendation, and exact creative asset request.
 - `ads/reports/` — dated reviews and recommendations.
 - `ads/intake/agent_handoff_piano_service_facebook_ads.md` — copy-ready, cross-agent handoff for the next piano-services Facebook Ads task. Read it when preparing or continuing this campaign plan.
+- `deliverables/marketing-campaign/automated-optimization-architecture-2026-10-03.md` — the proposed Meta Ads → Messenger → completed-job optimization architecture. Read it for optimization-system work. It is a design only: no connector, scheduled monitor, persistent agents, or live campaign automation has been deployed.
+- `CLAUDE.md` — Claude Code entry point that imports these canonical project rules.
+- `WORKBUDDY.md` — WorkBuddy task-context entry point. WorkBuddy's documented workflow is to reference/attach this file in a task; do not assume it auto-loads by filename.
+
+## AI assistant instruction entry points
+
+- Keep `AGENTS.md` as the canonical source of project rules for Codex and compatible tools. Do not fork or contradict its safety, scope, account-access, measurement, photo-only, and owner-approval requirements in tool-specific files.
+- Claude Code should load `CLAUDE.md`, which imports `AGENTS.md`. WorkBuddy users should select this workspace and explicitly reference `@WORKBUDDY.md`, `@AGENTS.md`, and the optimization architecture file when starting a relevant task. If a tool does not automatically discover a file, attach or reference it in the prompt.
+- For optimization work, treat the architecture as a proposal and start in read-only/shadow mode. Agents may validate data and recommend changes, but may not publish, pause, change budgets/geography/creative, claim lead handoff, or confirm appointments without the applicable explicit owner approval and verification.
 
 Keep the setup lightweight. Update these rules only when the owner’s working requirements change, and never convert an unconfirmed detail into a standing project fact.

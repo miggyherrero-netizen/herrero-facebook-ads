@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-03",
+  "timezone": "Asia/Manila",
+  "booking": {
+    "title": "I would like to book a schedule for piano tuning",
+    "details": "You can make a piano-service inquiry here in Messenger. Robert is the sole owner/operator and personally confirms service coverage, the final quotation, availability and bookings. A requested date or time is a preference, not a reserved appointment. A phone number is optional; Messenger is acceptable. There is no required booking form or available time-slot list.",
+    "verifiedAfterReload": true
+  },
+  "entries": [
+    {
+      "old": "PIANO TUNING",
+      "title": "Current piano service offer",
+      "details": "R. Herrero Piano Sales & Services offers piano tuning, cleaning and minor repairs. Rates start at ₱3,000 depending on location. Robert is the sole owner/operator and confirms the exact service scope and final quotation. This starting rate is not a guaranteed all-inclusive price."
+    },
+    {
+      "old": "PIANO TUNING",
+      "title": "Service scope and exclusions",
+      "details": "The current advertised services are piano tuning, cleaning and minor repairs. The starting rate does not guarantee coverage of every repair, replacement part or travel cost. Robert confirms suitable work, the final scope and quotation before any booking."
+    },
+    {
+      "old": "Gaanong klase nga piano ang inyong ginatuningan?",
+      "title": "Piano types and digital-keyboard inquiries",
+      "details": "Acoustic piano tuning and digital-keyboard repair are different services. Digital keyboards do not need acoustic tuning. Digital-keyboard repair capability is not confirmed here; Robert must confirm whether the reported repair can be accepted. Do not interpret acoustic tuning as a business-wide refusal of digital repairs."
+    },
+    {
+      "old": "Pila ang inyong piano tuning service?",
+      "title": "Starting rate and final quotation",
+      "details": "Piano tuning, cleaning and minor repairs start at ₱3,000 depending on location. No final all-inclusive quotation or free travel is established by this starting rate. Robert confirms the service scope and final price."
+    },
+    {
+      "old": "Mo-home service ba mo?",
+      "title": "Home-service inquiries",
+      "details": "Customers may inquire about piano service at their location. Robert personally confirms coverage, route, travel charges, availability and any visit. An inquiry or preferred date is not a confirmed appointment."
+    },
+    {
+      "old": "Asa inyong location?",
+      "title": "Business location",
+      "details": "R. Herrero Piano Sales & Services is based in Davao. Robert confirms service coverage and travel arrangements for each inquiry; being nearby does not automatically confirm availability or free travel."
+    },
+    {
+      "old": "Do you restore, refurbish piano?",
+      "title": "Restoration and specialist repair inquiries",
+      "details": "Restoration, refurbishment and specialist repair capability, scope and pricing require Robert’s confirmation. These are not automatically included in the advertised tuning, cleaning and minor-repair starting rate. No diagnosis, repair guarantee or final quotation is established from chat alone."
+    },
+    {
+      "old": "Do you have piano for sale?",
+      "title": "Piano purchase inquiries",
+      "details": "Robert personally confirms current piano stock, condition, price, warranty and delivery arrangements. Historical offers do not establish current availability or terms. Robert is the sole owner/operator; there is no sales team. Messenger is an acceptable contact path and a phone number is optional."
+    },
+    {
+      "old": "How much for PIANO TUNING?",
+      "title": "Multiple-piano quotations",
+      "details": "For multiple pianos, Robert confirms the scope and total quotation after reviewing the instruments and location. The advertised starting rate of ₱3,000 depending on location is not a confirmed per-piano price, bulk total or guarantee that all repairs are included. No bulk discount is established."
+    },
+    {
+      "old": "Where are you located?",
+      "title": "Service coverage and distant locations",
+      "details": "The business is based in Davao. Robert alone confirms whether a requested location can be served, travel costs and available dates. Do not promise all-Mindanao coverage, a trip, free travel or reject a location solely by assumption."
+    },
+    {
+      "old": "PILA PA TUNE",
+      "title": "Historical prices",
+      "details": "Previous ₱2,500–₱5,000 geographic prices and ₱3,500/₱5,500/₱8,500 package offers are not current quotations. The owner-confirmed advertised offer is piano tuning, cleaning and minor repairs starting at ₱3,000 depending on location; Robert confirms the final scope and price."
+    },
+    {
+      "old": "SERVICE",
+      "title": "Contact and owner confirmation",
+      "details": "Robert is the sole owner/operator. Messenger is an acceptable contact path; sharing a phone number is optional. Only Robert confirms coverage, final prices, availability and bookings. An inquiry does not prove that Robert has seen it or received a notification."
+    },
+    {
+      "old": "TUNE",
+      "title": "Unknown service history",
+      "details": "A customer may not remember when a piano was last serviced. Unknown or approximate service history is acceptable and does not by itself establish damage, a required extra service or an additional charge. Robert assesses any further work."
+    },
+    {
+      "old": "TUNING",
+      "title": "Repairs and assessment",
+      "details": "A reported sticking key, tuning concern or other symptom does not establish a diagnosis or guaranteed repair. Robert confirms repair capability, appropriate work and the quotation. Minor repairs are advertised, but every repair and replacement part is not automatically included in the starting rate."
+    }
+  ],
+  "verification": [
+    {
+      "title": "Current piano service offer",
+      "match": true,
+      "actual": "R. Herrero Piano Sales & Services offers piano tuning, cleaning and minor repairs. Rates start at ₱3,000 depending on location. Robert is the sole owner/operator and confirms the exact service scope and final quotation. This starting rate is not a guaranteed all-inclusive price."
+    },
+    {
+      "title": "Piano types and digital-keyboard inquiries",
+      "match": true,
+      "actual": "Acoustic piano tuning and digital-keyboard repair are different services. Digital keyboards do not need acoustic tuning. Digital-keyboard repair capability is not confirmed here; Robert must confirm whether the reported repair can be accepted. Do not interpret acoustic tuning as a business-wide refusal of digital repairs."
+    },
+    {
+      "title": "Starting rate and final quotation",
+      "match": true,
+      "actual": "Piano tuning, cleaning and minor repairs start at ₱3,000 depending on location. No final all-inclusive quotation or free travel is established by this starting rate. Robert confirms the service scope and final price."
+    },
+    {
+      "title": "Home-service inquiries",
+      "match": true,
+      "actual": "Customers may inquire about piano service at their location. Robert personally confirms coverage, route, travel charges, availability and any visit. An inquiry or preferred date is not a confirmed appointment."
+    },
+    {
+      "title": "Business location",
+      "match": true,
+      "actual": "R. Herrero Piano Sales & Services is based in Davao. Robert confirms service coverage and travel arrangements for each inquiry; being nearby does not automatically confirm availability or free travel."
+    },
+    {
+      "title": "Restoration and specialist repair inquiries",
+      "match": true,
+      "actual": "Restoration, refurbishment and specialist repair capability, scope and pricing require Robert’s confirmation. These are not automatically included in the advertised tuning, cleaning and minor-repair starting rate. No diagnosis, repair guarantee or final quotation is established from chat alone."
+    },
+    {
+      "title": "Piano purchase inquiries",
+      "match": true,
+      "actual": "Robert personally confirms current piano stock, condition, price, warranty and delivery arrangements. Historical offers do not establish current availability or terms. Robert is the sole owner/operator; there is no sales team. Messenger is an acceptable contact path and a phone number is optional."
+    },
+    {
+      "title": "Multiple-piano quotations",
+      "match": true,
+      "actual": "For multiple pianos, Robert confirms the scope and total quotation after reviewing the instruments and location. The advertised starting rate of ₱3,000 depending on location is not a confirmed per-piano price, bulk total or guarantee that all repairs are included. No bulk discount is established."
+    },
+    {
+      "title": "Service coverage and distant locations",
+      "match": true,
+      "actual": "The business is based in Davao. Robert alone confirms whether a requested location can be served, travel costs and available dates. Do not promise all-Mindanao coverage, a trip, free travel or reject a location solely by assumption."
+    },
+    {
+      "title": "Service scope and exclusions",
+      "match": true
+    },
+    {
+      "title": "Historical prices",
+      "match": true
+    },
+    {
+      "title": "Contact and owner confirmation",
+      "match": true
+    },
+    {
+      "title": "Unknown service history",
+      "match": true
+    },
+    {
+      "title": "Repairs and assessment",
+      "match": true
+    }
+  ]
+}

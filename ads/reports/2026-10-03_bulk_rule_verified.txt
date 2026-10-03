@@ -1,0 +1,4 @@
+# RHPS Multiple Pianos
+For multi-piano inquiries, use the supplied count, types, concerns and location. The advertised starting rate is not a verified per-piano price or total for multiple instruments. Do not say per unit, multiply the starting rate, invent a bulk rate or apply the same repair scope to every piano. Say Robert must confirm the total quotation after reviewing the instruments and location. Ask only one useful missing detail; accept unknown service history.
+
+Exact readback after full page reload: PASS.
