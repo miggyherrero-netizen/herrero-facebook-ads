@@ -19,3 +19,7 @@ This project is the ongoing paid-advertising workspace for **R. Herrero Piano Sa
 - A [read-only account study and proposed campaign plan](ads/reports/2026-10-02_facebook_ads_study_and_plan.md) was completed on 2026-10-02, including historical results, draft setup issues, tracking findings and an exact photo/video shot list. No campaign was created, changed or launched by this review; owner facts and plan/budget approval remain pending.
 
 The `ads/` folder contains intake forms, original/normalized data folders, persistent logs, and review templates. Never put account passwords, authentication codes, API secrets, or unnecessary customer personal data in this workspace.
+
+## Client ads workspace prototype
+
+A client reporting app is available in [`dashboard/`](dashboard/README.md). Run it from the repository root with `node dashboard/server.mjs`. It supports local client workspaces, Meta Ads CSV imports, aggregate outcome tracking and CSV exports. A read-only Meta Ads OAuth/API connector is implemented but **not configured or authorized**; you must register a Meta Developer app and set local ignored `.env` values first. Other provider connectors remain setup guides. The seed dashboard uses saved historical study facts and clearly separates missing business outcomes from zero. Do not enter access credentials or customer personal information.
